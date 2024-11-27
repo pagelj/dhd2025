@@ -1,0 +1,201 @@
+Sätze	Wahrheitswert	intrinsisch/extrinsisch	Ich weiss es nicht	Kommentar	@dropdown
+Die niedrigen, leichtgebauten Häuser sahen den Fluss.	FALSE	intrinsisch 		Häuser können nicht sehen	
+Die Höhe stockte nicht.	TRUE	intrinsisch 			
+Ein junger Kaufmann saß am Fenster nicht.	FALSE	extrinsisch 		eigentlich ungrammatisch, aber verständlich	
+Wenn die Brücke die Anhöhen hinzog, dann ließ der fremdartige Vollbart das Geschäft an.	TRUE				
+Das Fenster beendete einen Brief.	FALSE	extrinsisch 			
+Der Freund beendete einen Brief oder der Fremde verschloss das Haus.	FALSE	extrinsisch 	X	"der Fremde" kommt in dem Text gar nicht vor (sondern "die Fremde"), also können wir nicht wissen, ob er "das Haus" verschloss...	
+Wenn Georg Bendemann im ersten Stock sitzt, dann sitzt ein junger Kaufmann im ersten Stock.	TRUE	extrinsisch 			
+Wenn die niedrigen, leichtgebauten Häuser den Fluss sahen, dann saß ein junger Kaufmann am Fenster.	TRUE			mit allgemeinsprachlichem Verständnis schwer verdaulich	
+Wenn die Anhöhen die Brücke verdeckten, dann arbeitete der Freund im Ausland.	TRUE				
+Die Höhe stockte.	FALSE	intrinsisch 			
+Georg Bendemann klagte.	FALSE	extrinsisch 			
+Georg Bendemann betrieb das Geschäft oder einen Sonntagvormittag schien der Freund.	FALSE	extrinsisch 		zweiter Teilsatz ungrammatisch, aber halbwegs verständlich!?	
+Georg Bendemann betrieb das Geschäft und einen Sonntagvormittag schien der Freund.	FALSE	extrinsisch 		zweiter Teilsatz ungrammatisch, aber halbwegs verständlich!?	
+Wenn die Anhöhen den Freund flüchteten, dann richtete die Brücke die Anhöhen.	TRUE	intrinsisch 		flüchteten ist nicht transitiv	
+Die Anhöhen flüchteten den Freund und die Brücke richtete die Anhöhen.	FALSE	intrinsisch 			
+Die Anhöhen arbeiteten im Ausland.	FALSE	extrinsisch 			
+Georg Bendemann hatte gerade einen Brief an einen sich im Ausland befindlichen Jugendfreund beendet.	TRUE	extrinsisch 			
+Georg Bendemann betrieb das Geschäft.	FALSE	extrinsisch 			
+Wenn der Freund in Petersburg ist, dann ist ein junger Kaufmann in Rußland.	FALSE	extrinsisch 	X	Teilsatz 1 ist wahr, aber wir wissen nicht, ob der Freund Kaufmann ist	
+Wenn Georg Bendemann das Geschäft betrieb, dann schien einen Sonntagvormittag der Freund.	TRUE	extrinsisch 			
+Wenn das Fenster einen Brief beendete, dann verschloss das Haus den Fluss.	TRUE				
+Einen Sonntagvormittag schien der Freund nicht.	FALSE	intrinsisch 			
+Ein endgültiges Junggesellentum saß am Fenster.	FALSE	intrinsisch 			
+Ein endgültiges Junggesellentum dachte.	FALSE	intrinsisch 			
+Der Fremde verschloss das Haus nicht.	FALSE	extrinsisch 	X	"der Fremde" kommt in dem Text gar nicht vor (sondern "die Fremde"), also können wir nicht wissen, ob er "das Haus" verschloss...	
+Die Anhöhen flüchteten den Freund oder die Brücke richtete die Anhöhen.	FALSE	intrinsisch 			
+Wenn Georg Bendemann im ersten Stock sitzt, dann hat ein junger Kaufmann eine rechte Verbindung mit der dortigen Kolonie.	FALSE	extrinsisch 		S1 wahr, S2 falsch; NB: nur im Logik-Sprech wahr, allgemeinsprachlich totaler Quatsch - man präsupponiert bei "wenn, dann" einen inhaltlichen Zusammenhang	
+Ein junger Kaufmann ließ das Geschäft an nicht.	TRUE	extrinsisch 		ungrammatisch, aber verständlich	
+Der Fremde zog die Anhöhen hin und ein junger Kaufmann ließ das Geschäft an.	FALSE	extrinsisch 			
+Der Fremde stockte nicht.	FALSE	extrinsisch 	X	"der Fremde" kommt in dem Text gar nicht vor (sondern "die Fremde"), also können wir nicht wissen, ob er "das Haus" verschloss...	
+Die niedrigen, leichtgebauten Häuser unterschieden sich.	TRUE	extrinsisch 		tückisch, hätte fast nein gesagt, weil sie sich sehr wenig unterschieden...	
+Der Fremde zog die Anhöhen hin nicht.	FALSE	extrinsisch 	X	"der Fremde" kommt in dem Text gar nicht vor (sondern "die Fremde"), also können wir nicht wissen, ob er "das Haus" verschloss...	
+Die niedrigen, leichtgebauten Häuser richteten die Anhöhen.	FALSE	intrinsisch 		NB: im Text ist die Partikel ein von einrichten getrennt...	
+Der Freund beendete einen Brief.	FALSE	extrinsisch 			
+Der Fremde klagte.	FALSE			Präsuppositionsfehler	
+Georg Bendemann ist ein junger Kaufmann und hat keine rechte Verbindung mit der dortigen Kolonie der Landsleute.	FALSE	extrinsisch 			
+Die Höhe verdeckte die Brücke oder die Anhöhen arbeiteten im Ausland.	FALSE	intrinsisch 			
+Ein junger Kaufmann sah aus dem Fenster.	TRUE	extrinsisch 			
+Wenn einen Sonntagvormittag der Freund flüchtete, dann richteten die niedrigen, leichtgebauten Häuser die Anhöhen.	TRUE	intrinsisch 			
+Die Höhe verdeckte die Brücke und die Anhöhen arbeiteten im Ausland.	FALSE	intrinsisch 			
+Der Freund dachte nicht.	FALSE	extrinsisch 	X		
+Der fremdartige Vollbart dachte nicht.	TRUE	intrinsisch 			
+Die Anhöhen verdeckten die Brücke und der Freund arbeitete im Ausland.	FALSE	intrinsisch 			
+Der Fremde zog die Anhöhen hin oder ein junger Kaufmann ließ das Geschäft an.	FALSE				
+Die Brücke zog die Anhöhen hin oder der fremdartige Vollbart ließ das Geschäft an.	FALSE				
+Der Fremde verschloss das Haus.	FALSE			Präsuppositionsfehler	
+Wenn der Freund in Petersburg ist, dann ist der Freund in Rußland.	TRUE	extrinsisch 		Im Gegensatz zu den meisten anderen wenn-dann Sätzen, würde man so etwas auch allgemeinsprachlich sagen	
+Wenn der Fremde die Anhöhen hinzog, dann ließ ein junger Kaufmann das Geschäft an.	FALSE				
+Die dortige Kolonie betrieb das Geschäft.	FALSE	extrinsisch 		"das Geschäft" muss sich auf das Geschäft des Freundes beziehen	
+Die dortige Kolonie betrieb das Geschäft oder seine Landsleute schienen dem Freund.	FALSE	extrinsisch 		S2 ist ungrammatisch (und nicht nahe an einem wahren Satz)	
+Georg Bendemann ist ein junger Kaufmann und hatte einen Brief verschlossen.	TRUE	extrinsisch 		Plusquamperfekt ist etwas verwirrend	
+Georg Bendemann dachte.	TRUE	extrinsisch 		"dachte" rein intransitiv klingt hier komisch, trotzdem wahr	
+Die Brücke zog die Anhöhen hin.	FALSE	intrinsisch 			
+Das Fenster beendete einen Brief nicht.	TRUE	intrinsisch 		eigenartig	
+Wenn die Anhöhen die Brücke verdeckten, dann arbeitete der Freund im Ausland.	TRUE	intrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr klagte nicht.	FALSE	intrinsisch 		komisch	
+Der fremdartige Vollbart ließ das Geschäft an nicht.	FALSE	intrinsisch 			
+Wenn die Höhe die Brücke verdeckte, dann arbeiteten die Anhöhen im Ausland.	TRUE	intrinsisch 			
+Georg Bendemann sitzt in einem der niedrigen, leichtgebauten Häuser.	FALSE	extrinsisch 			
+Die Anhöhen klagten nicht.	TRUE	intrinsisch 		eigenartig	
+Der Fremde zog die Anhöhen hin oder ein junger Kaufmann ließ das Geschäft an.	FALSE		X	was soll S2 heißen?	
+Wenn Georg Bendemann im ersten Stock sitzt, dann hat ein junger Kaufmann fast keinen gesellschaftlichen Verkehr .	FALSE	extrinsisch 		eigentlich wieder Quatsch	
+Das Fenster beendete einen Brief oder das Haus verschloss den Fluss.	FALSE	intrinsisch 			
+Das Fenster beendete einen Brief oder das Haus verschloss den Fluss.	FALSE	intrinsisch 		Dublette!	
+Ein junger Kaufmann saß am Fenster.	TRUE	extrinsisch 			
+Der Freund beendete einen Brief oder der Fremde verschloss das Haus.	FALSE			Präsuppositionsfehler	
+Georg Bendemann ist ein junger Kaufmann und es ist Sonntagvormittag.	TRUE	extrinsisch 		Präsens in Bezug auf die Erzählzeit kommt überraschend, aber man würde es als wahr einschätzen	
+Georg Bendemann ist ein junger Kaufmann.	TRUE	extrinsisch 			
+Die Brücke richtete die Anhöhen nicht.	TRUE	intrinsisch 			
+Ein junger Kaufmann erzählte.	FALSE		X	dazu steht nichts im Text	
+Die Anhöhen stockten.	FALSE	intrinsisch 			
+Wenn der Freund einen Brief beendete, dann verschloss der Fremde das Haus.	FALSE			Präsuppositionsfehler	
+Die Brücke klagte.	FALSE	intrinsisch 			
+Georg Bendemann betrieb das Geschäft nicht.	TRUE	extrinsisch 			
+Die Höhe verdeckte die Brücke.	FALSE	intrinsisch 			
+Der Fremde klagte nicht.	FALSE			Präsuppositionsfehler	
+Der Freund arbeitete im Ausland.	TRUE	extrinsisch 			
+Georg Bendemann ist ein junger Kaufmann und arbeitet sich nicht in der Fremde nutzlos ab.	TRUE	extrinsisch 			
+Dem Fenster hinzudeuten.	FALSE	intrinsisch 			
+Die Anhöhen erzählten nicht.	FALSE	intrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr klagte.	FALSE	intrinsisch 			
+Das Fenster beendete einen Brief und das Haus verschloss den Fluss.	FALSE	intrinsisch 			
+Die Brücke klagte nicht.	TRUE				
+Der Fremde stockte.	FALSE			Präsuppositionsfehler	
+Der Freund beendete einen Brief und der Fremde verschloss das Haus.	FALSE			Präsuppositionsfehler	
+Wenn die Höhe die Brücke verdeckte, dann arbeiteten die Anhöhen im Ausland.	TRUE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser unterschieden sich nicht.	FALSE	extrinsisch 			
+Der Freund beendete einen Brief nicht.	FALSE		X	dazu steht nichts im Text	
+Wenn der Fremde die Anhöhen hinzog, dann ließ ein junger Kaufmann das Geschäft an.	FALSE				
+Die dortige Kolonie stockte.	FALSE		X	dazu steht nichts im Text	
+Die niedrigen, leichtgebauten Häuser sahen den Fluss und ein junger Kaufmann saß am Fenster.	FALSE	intrinsisch 		in dieser Kombi würde ich schon fast denken, dass man das in einem literarischen Text erwarten kann! Es wäre wahr, wenn man "sah" metaphorisch versteht	
+Georg Bendemann sah aus dem Fenster.	TRUE	extrinsisch 			
+Ein junger Kaufmann stockte nicht.	TRUE	extrinsisch 		steht zwar nichts dazu im Text, aber hier würde ich sagen, die Negation trifft es	
+Die Brücke erzählte.	FALSE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser richteten die Anhöhen nicht.	TRUE	intrinsisch 		wahr, aber absurd	
+Ein endgültiges Junggesellentum saß am Fenster nicht.	TRUE	intrinsisch 		wahr, aber absurd (außerdem ungrammatisch)	
+Einen Sonntagvormittag flüchtete der Freund.	FALSE	intrinsisch 			
+Die Anhöhen flüchteten den Freund.	FALSE	intrinsisch 			
+Wenn auch fast keinen gesellschaftlichen Verkehr den Fluss sah, dann saß ein endgültiges Junggesellentum am Fenster.	FALSE			ungrammatisch	
+Einen Sonntagvormittag flüchtete der Freund oder die niedrigen, leichtgebauten Häuser richteten die Anhöhen.	FALSE	intrinsisch 			
+Seine Landsleute erzählten nicht.	FALSE		X	dazu steht nichts im Text	
+Einen Sonntagvormittag schien der Freund.	FALSE	intrinsisch 			
+Die dortige Kolonie stockte nicht.	FALSE		X	dazu steht nichts im Text	
+Die Brücke zog die Anhöhen hin und der fremdartige Vollbart ließ das Geschäft an.	FALSE	intrinsisch 			
+Wenn die niedrigen, leichtgebauten Häuser den Fluss sahen, dann saß ein junger Kaufmann am Fenster.	TRUE	extrinsisch 			
+Ein junger Kaufmann ließ das Geschäft an.	FALSE	extrinsisch 			
+Die Brücke zog die Anhöhen hin nicht.	FALSE	intrinsisch 			
+Georg Bendemann sah den Fluss oder ein junger Kaufmann saß am Fenster.	TRUE	extrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss und ein endgültiges Junggesellentum saß am Fenster.	FALSE	intrinsisch 			
+Ein junger Kaufmann sitzt in einem der niedrigen, leichtgebauten Häuser.	TRUE	extrinsisch 			
+Die Höhe verdeckte die Brücke oder die Anhöhen arbeiteten im Ausland.	FALSE	intrinsisch 			
+Georg Bendemann betrieb das Geschäft und einen Sonntagvormittag schien der Freund.	FALSE	intrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss und ein endgültiges Junggesellentum saß am Fenster.	FALSE	intrinsisch 			
+Die Brücke erzählte nicht.	TRUE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser unterschieden sich.	TRUE	extrinsisch 			
+Einen Sonntagvormittag hinzudeuten.	FALSE	intrinsisch 			
+Ein junger Kaufmann sitzt in seinem Privatzimmer.	TRUE	extrinsisch 			
+Die dortige Kolonie betrieb das Geschäft nicht.	TRUE	extrinsisch 			
+Den Fluss unterschieden nicht.	TRUE	intrinsisch 			
+Einen Sonntagvormittag flüchtete der Freund und die niedrigen, leichtgebauten Häuser richteten die Anhöhen.	FALSE	intrinsisch 			
+Der Freund dachte.	FALSE	extrinsisch 			
+Wenn der Freund in Petersburg ist, dann richtete sich ein junger Kaufmann für ein endgültiges Junggesellentum ein.	FALSE	extrinsisch 			
+Seine Landsleute erzählten.	FALSE	extrinsisch 			
+Wenn die dortige Kolonie das Geschäft betrieb, dann schienen seine Landsleute dem Freund.	TRUE	extrinsisch 			
+Der Fremde zog die Anhöhen hin und ein junger Kaufmann ließ das Geschäft an.	FALSE	intrinsisch 			
+Wenn die Brücke die Anhöhen hinzog, dann ließ der fremdartige Vollbart das Geschäft an.	FALSE	intrinsisch 			
+Georg Bendemann sitzt in seinem Privatzimmer.	TRUE	extrinsisch 			
+Wenn der Freund einen Brief beendete, dann verschloss der Fremde das Haus.	FALSE	intrinsisch 			
+Die dortige Kolonie betrieb das Geschäft und seine Landsleute schienen dem Freund.	FALSE	extrinsisch 			
+Die Anhöhen erzählten.	FALSE	intrinsisch 			
+Einen Sonntagvormittag flüchtete der Freund nicht.	FALSE	intrinsisch 			
+Wenn der Freund in Petersburg ist, dann arbeitet ein junger Kaufmann sich in der Fremde nutzlos ab.	FALSE	extrinsisch 			
+Der fremdartige Vollbart dachte.	FALSE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser sahen den Fluss nicht.	TRUE	intrinsisch 			
+Den Fluss verschloss das Haus.	FALSE	intrinsisch 			
+Seine Landsleute schienen dem Freund nicht.	TRUE	intrinsisch 			
+Die Anhöhen stockten nicht.	TRUE	intrinsisch 			
+Einen Sonntagvormittag flüchtete der Freund und die niedrigen, leichtgebauten Häuser richteten die Anhöhen.	FALSE	intrinsisch 			
+Wenn auch fast keinen gesellschaftlichen Verkehr den Fluss sah, dann saß ein endgültiges Junggesellentum am Fenster.	FALSE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser sahen den Fluss und ein junger Kaufmann saß am Fenster.	FALSE	intrinsisch 			
+Ein junger Kaufmann erzählte nicht.	TRUE	extrinsisch 			
+Georg Bendemann dachte nicht.	FALSE	extrinsisch 			
+Georg Bendemann klagte nicht.	TRUE	extrinsisch 			
+Die Brücke richtete die Anhöhen.	FALSE	intrinsisch 			
+Der Freund beendete einen Brief und der Fremde verschloss das Haus.	FALSE	extrinsisch 			
+Wenn die dortige Kolonie das Geschäft betrieb, dann schienen seine Landsleute dem Freund.	FALSE	intrinsisch 			
+Wenn einen Sonntagvormittag der Freund flüchtete, dann richteten die niedrigen, leichtgebauten Häuser die Anhöhen.	FALSE	intrinsisch 			
+Der Freund erzählte.	FALSE	extrinsisch 		Für zukünftige Guidelines: wenn es  solche Präsenssätze gibt, sollte man die Annotationsaufgabe spezfischer machen à la: "Macht auf Basis des Textes der Satz eine wahre Aussage über die im Textabschnitt dargelegten Gegebenheiten in der erzählten Welt?"	
+Die Anhöhen verdeckten die Brücke und der Freund arbeitete im Ausland.	FALSE	extrinsisch 			
+Die Höhe verdeckte die Brücke und die Anhöhen arbeiteten im Ausland.	FALSE	extrinsisch 			
+Georg Bendemann sah den Fluss nicht.	FALSE	extrinsisch 			
+Die Anhöhen arbeiteten im Ausland nicht.	TRUE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser sahen den Fluss oder ein junger Kaufmann saß am Fenster.	TRUE	extrinsisch 			
+Wenn die Anhöhen den Freund flüchteten, dann richtete die Brücke die Anhöhen.	FALSE	intrinsisch 			
+Den Fluss unterschieden.	FALSE	intrinsisch 			
+Die Anhöhen verdeckten die Brücke oder der Freund arbeitete im Ausland.	TRUE	extrinsisch 			
+Die dortige Kolonie betrieb das Geschäft oder seine Landsleute schienen dem Freund.	FALSE	intrinsisch 			
+Die Anhöhen verdeckten die Brücke.	FALSE	extrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss oder ein endgültiges Junggesellentum saß am Fenster.	FALSE	intrinsisch 			
+Wenn das Fenster einen Brief beendete, dann verschloss das Haus den Fluss.	FALSE	intrinsisch 			
+Georg Bendemann sah den Fluss und ein junger Kaufmann saß am Fenster.	TRUE	extrinsisch 			
+Die Anhöhen flüchteten den Freund und die Brücke richtete die Anhöhen.	FALSE	intrinsisch 			
+Wenn Georg Bendemann das Geschäft betrieb, dann schien einen Sonntagvormittag der Freund.	FALSE	intrinsisch 			
+Einen Sonntagvormittag hinzudeuten.	FALSE	intrinsisch 			
+Der Freund arbeitete im Ausland nicht.	FALSE	extrinsisch 			
+Ein endgültiges Junggesellentum dachte nicht.	FALSE	intrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss oder ein endgültiges Junggesellentum saß am Fenster.	FALSE	intrinsisch 			
+Der fremdartige Vollbart ließ das Geschäft an.	FALSE	intrinsisch 			
+Wenn der Freund in Petersburg ist, dann sitzt Georg Bendemann in seinem Privatzimmer.	TRUE	extrinsisch 			
+Georg Bendemann sah den Fluss.	TRUE	extrinsisch 			
+Wenn Georg Bendemann im ersten Stock sitzt, dann hatte ein junger Kaufmann gerade einen Brief an einen sich im Ausland befindlichen Jugendfreund beendet.	TRUE	extrinsisch 			
+Die Brücke zog die Anhöhen hin und der fremdartige Vollbart ließ das Geschäft an.	FALSE	intrinsisch 			
+Einen Sonntagvormittag hinzudeuten nicht.	FALSE	intrinsisch 			
+Die Anhöhen klagten.	FALSE	intrinsisch 			
+Der Fremde zog die Anhöhen hin.	FALSE				
+Ein junger Kaufmann stockte.	FALSE	extrinsisch 			
+Die Anhöhen verdeckten die Brücke nicht.	TRUE	extrinsisch 			
+Wenn Georg Bendemann den Fluss sah, dann saß ein junger Kaufmann am Fenster.	TRUE	extrinsisch 			
+Die niedrigen, leichtgebauten Häuser unterschieden sich nicht.	FALSE	extrinsisch 			
+Wenn Georg Bendemann im ersten Stock sitzt, dann hat ein junger Kaufmann keine rechte Verbindung mit der dortigen Kolonie.	FALSE	extrinsisch 			
+Der Jugendfreund arbeitete sich in der Fremde ab.	TRUE	extrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss nicht.	FALSE	intrinsisch 			
+Die niedrigen, leichtgebauten Häuser sahen den Fluss oder ein junger Kaufmann saß am Fenster.	TRUE	extrinsisch 			
+Auch fast keinen gesellschaftlichen Verkehr sah den Fluss.	FALSE	intrinsisch 			
+Die Höhe verdeckte die Brücke nicht.	TRUE	extrinsisch 			
+Den Fluss verschloss das Haus nicht.	TRUE	intrinsisch 			
+Georg Bendemann betrieb das Geschäft oder einen Sonntagvormittag schien der Freund.	FALSE	intrinsisch 			
+Dem Fenster hinzudeuten nicht.	TRUE	intrinsisch 			
+Einen Sonntagvormittag hinzudeuten nicht.	TRUE	intrinsisch 			
+Das Fenster beendete einen Brief und das Haus verschloss den Fluss.	FALSE	intrinsisch 			
+Seine Landsleute schienen dem Freund.	FALSE	intrinsisch 			
+Georg Bendemann ist ein junger Kaufmann und und betreibt kein Geschäft in Petersburg.	TRUE	extrinsisch 		Achtung: Koordination ist nicht auf Satz-Ebene (daran sieht man, dass es handgemacht ist...)	
+Die Anhöhen flüchteten den Freund nicht.	TRUE	intrinsisch 			
+Die Anhöhen flüchteten den Freund oder die Brücke richtete die Anhöhen.	FALSE	intrinsisch 			
+Ein junger Kaufmann hatte gerade einen Brief an einen sich im Ausland befindlichen Jugendfreund beendet.	TRUE	extrinsisch 			
+Der Freund erzählte nicht.	TRUE	extrinsisch 			
+Die Anhöhen verdeckten die Brücke oder der Freund arbeitete im Ausland.	TRUE	extrinsisch 			
+Die Brücke zog die Anhöhen hin oder der fremdartige Vollbart ließ das Geschäft an.	FALSE	intrinsisch 			
+Einen Sonntagvormittag flüchtete der Freund oder die niedrigen, leichtgebauten Häuser richteten die Anhöhen.	FALSE	intrinsisch 			
+Die dortige Kolonie betrieb das Geschäft und seine Landsleute schienen dem Freund.	FALSE	intrinsisch 			
